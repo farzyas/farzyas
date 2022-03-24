@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "d:/KULIAH YAYAS/SEMESTER 2/PRAKTIKUM ALPRO/PERTEMUAN 1/STUDI KASUS",
+      "environment": [],
+      "program": "d:/KULIAH YAYAS/SEMESTER 2/PRAKTIKUM ALPRO/PERTEMUAN 1/STUDI KASUS/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
